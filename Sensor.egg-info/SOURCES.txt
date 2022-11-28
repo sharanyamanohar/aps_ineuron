@@ -1,0 +1,7 @@
+README.md
+setup.py
+Sensor.egg-info/PKG-INFO
+Sensor.egg-info/SOURCES.txt
+Sensor.egg-info/dependency_links.txt
+Sensor.egg-info/requires.txt
+Sensor.egg-info/top_level.txt
